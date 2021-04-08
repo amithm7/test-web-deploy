@@ -1,3 +1,4 @@
 # Netlify redirects
 /amo https://amo.fyi
+/html-redirect https://google.com
 /* https://amo.fyi/:splat
